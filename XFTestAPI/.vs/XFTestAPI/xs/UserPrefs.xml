@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0E68F146-0FDA-47E7-8980-0EBEE6F4E0CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFTestAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+    <Files>
+      <File FileName="Controllers/GetCarWashDetailsController.cs" Line="22" Column="195" />
+      <File FileName="Startup.cs" />
+      <File FileName="CarWashVisitDatabase.cs" />
+      <File FileName="Models/CarwashVisitDetails.cs" />
+      <File FileName="ClassConverter.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="JsonFile/XF-Test-Json" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFTestAPI" expanded="True">
+            <Node name="XFTestAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataBaseModel" expanded="True" />
+              <Node name="JsonFile" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XFTestAPI/CarWashVisitDatabase.cs" relfile="CarWashVisitDatabase.cs" line="55" column="1" />
+      <Breakpoint enabled="false" file="/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XFTestAPI/CarWashVisitDatabase.cs" relfile="CarWashVisitDatabase.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XFTestAPI/CarWashVisitDatabase.cs" relfile="CarWashVisitDatabase.cs" line="19" column="1" />
+      <Breakpoint file="/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XFTestAPI/CarWashVisitDatabase.cs" relfile="CarWashVisitDatabase.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
